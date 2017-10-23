@@ -4,7 +4,7 @@ public class Person {
 
     //hehe
 
-    private String fullName;
+    private String fullName03;
     private String firstName;
     private String lastName;
     private String job;
