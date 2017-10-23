@@ -4,6 +4,7 @@ public class Person {
 
     //hehe
 
+    private String testBranch;
     private String fullName03;
     private String firstName;
     private String lastName;
